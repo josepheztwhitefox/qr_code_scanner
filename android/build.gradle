@@ -3,6 +3,7 @@ version '1.0-SNAPSHOT'
 
 buildscript {
     ext.kotlin_version = '1.9.0'
+    namespace 'net.touchcapture.qr.flutterqr'
     repositories {
         google()
         mavenCentral()
